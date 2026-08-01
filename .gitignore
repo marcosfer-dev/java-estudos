@@ -1,0 +1,49 @@
+# Compilação Java
+*.class
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+*~
+
+# Pacotes
+*.jar
+*.war
+*.ear
+
+# Diretórios de build
+target/
+build/
+out/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code (caso use também)
+.vscode/
+
+# Eclipse (caso importe o projeto)
+.project
+.classpath
+.settings/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
