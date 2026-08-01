@@ -1,8 +1,8 @@
-package marcosfer.dev.com.github.operadores.aritmeticos;
+package marcosfer.dev.com.github.operadores;
 
 import java.util.Scanner;
 
-public class OperadoresAritmeticos {
+public class Operadores {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
